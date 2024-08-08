@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>激活教程 on Highwe2hell 的博客</title><link>https://highwe2hell.top/categories/%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B/</link><description>Recent content in 激活教程 on Highwe2hell 的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Highwe2hell</copyright><lastBuildDate>Mon, 01 Jul 2024 19:00:00 +0800</lastBuildDate><atom:link href="https://highwe2hell.top/categories/%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>Typora 免费安装教程（已支持最新版 1.9.5）</title><link>https://highwe2hell.top/cd6f0a03/</link><pubDate>Mon, 01 Jul 2024 19:00:00 +0800</pubDate><guid>https://highwe2hell.top/cd6f0a03/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>激活教程 on Highwe2hell 的博客</title><link>https://highwe2hell.top/categories/%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B/</link><description>Recent content in 激活教程 on Highwe2hell 的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Highwe2hell</copyright><lastBuildDate>Mon, 01 Jul 2024 19:00:00 +0800</lastBuildDate><atom:link href="https://highwe2hell.top/categories/%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>Typora 免费激活教程（已支持最新版 1.9.5）</title><link>https://highwe2hell.top/cd6f0a03/</link><pubDate>Mon, 01 Jul 2024 19:00:00 +0800</pubDate><guid>https://highwe2hell.top/cd6f0a03/</guid><description>
 &lt;div class="notice notice-tip" >
 &lt;div class="notice-title">&lt;svg xmlns="http://www.w3.org/2000/svg" class="icon notice-icon" viewBox="0 0 512 512" fill="hsl(140, 65%, 65%)">&lt;path d="M504 256a248 248 0 11-496 0 248 248 0 01496 0zM227 387l184-184c7-6 7-16 0-22l-22-23c-7-6-17-6-23 0L216 308l-70-70c-6-6-16-6-23 0l-22 23c-7 6-7 16 0 22l104 104c6 7 16 7 22 0z"/>&lt;/svg>&lt;/div>&lt;p>实测可用，无需修改注册表、修改代码等复杂操作。&lt;/p>&lt;/div>
 &lt;h2 id="一typora-介绍">一、Typora 介绍
@@ -59,8 +59,8 @@ alt="安装包和压缩包"
 class="gallery-image"
 data-flex-grow="542"
 data-flex-basis="1301px"
->
-&lt;img src="https://highwe2hell.top/cd6f0a03/img05.jpg"
+>&lt;/p>
+&lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img05.jpg"
 width="618"
 height="126"
 srcset="https://highwe2hell.top/cd6f0a03/img05_hu7945058db5caa28019832c9afae5e56e_6989_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img05_hu7945058db5caa28019832c9afae5e56e_6989_1024x0_resize_q75_box.jpg 1024w"
@@ -100,7 +100,7 @@ data-flex-basis="258px"
 &lt;div class="notice-title">&lt;svg xmlns="http://www.w3.org/2000/svg" class="icon notice-icon" viewBox="0 0 512 512" fill="hsl(200, 65%, 65%)">&lt;path d="M504 256a248 248 0 11-496 0 248 248 0 01496 0zm-248 50a46 46 0 100 92 46 46 0 000-92zm-44-165l8 136c0 6 5 11 12 11h48c7 0 12-5 12-11l8-136c0-7-5-13-12-13h-64c-7 0-12 6-12 13z"/>&lt;/svg>&lt;/div>&lt;p>如果安装在 D 盘或其他盘，需要先输入&lt;code>D:&lt;/code>跳转到对应盘符，再输入以下内容：&lt;/p>&lt;/div>
 &lt;ol>
 &lt;li>输入&lt;mark> cd C:\Program Files\Typora &lt;/mark>按回车，跳转到 Typora 安装路径。&lt;/li>
-&lt;li>输入&lt;mark> node_inject.exe &lt;/mark>按回车，等待提示“done!”。&lt;/li>
+&lt;li>输入&lt;mark> node_inject.exe &lt;/mark>按回车，等待提示“&lt;strong>done!&lt;/strong>”。&lt;/li>
 &lt;li>输入&lt;mark> license-gen.exe &lt;/mark>按回车，等待显示序列号。&lt;/li>
 &lt;/ol>
 &lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img08.jpg"
@@ -108,7 +108,7 @@ width="979"
 height="512"
 srcset="https://highwe2hell.top/cd6f0a03/img08_hu340694ee33a1f75b199265c365458979_18894_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img08_hu340694ee33a1f75b199265c365458979_18894_1024x0_resize_q75_box.jpg 1024w"
 loading="lazy"
-alt="在 CMD 切换路径"
+alt="在 CMD 中切换路径"
 class="gallery-image"
 data-flex-grow="191"
 data-flex-basis="458px"
@@ -130,7 +130,7 @@ width="760"
 height="460"
 srcset="https://highwe2hell.top/cd6f0a03/img10_hu73e2a4672caa87a176dac8e9ae1f7540_20158_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img10_hu73e2a4672caa87a176dac8e9ae1f7540_20158_1024x0_resize_q75_box.jpg 1024w"
 loading="lazy"
-alt="激活 Typora"
+alt="输入序列号"
 class="gallery-image"
 data-flex-grow="165"
 data-flex-basis="396px"
