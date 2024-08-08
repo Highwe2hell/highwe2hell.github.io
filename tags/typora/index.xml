@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Typora on Highwe2hell 的博客</title><link>https://highwe2hell.top/tags/typora/</link><description>Recent content in Typora on Highwe2hell 的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Highwe2hell</copyright><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://highwe2hell.top/tags/typora/index.xml" rel="self" type="application/rss+xml"/><item><title>Typora 免费安装教程（已支持最新版 1.9.5）</title><link>https://highwe2hell.top/p/typora-%E5%85%8D%E8%B4%B9%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B%E5%B7%B2%E6%94%AF%E6%8C%81%E6%9C%80%E6%96%B0%E7%89%88-1.9.5/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>https://highwe2hell.top/p/typora-%E5%85%8D%E8%B4%B9%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B%E5%B7%B2%E6%94%AF%E6%8C%81%E6%9C%80%E6%96%B0%E7%89%88-1.9.5/</guid><description>&lt;img src="https://highwe2hell.top/p/typora-%E5%85%8D%E8%B4%B9%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B%E5%B7%B2%E6%94%AF%E6%8C%81%E6%9C%80%E6%96%B0%E7%89%88-1.9.5/cover.png" alt="Featured image of post Typora 免费安装教程（已支持最新版 1.9.5）" />&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Typora on Highwe2hell 的博客</title><link>https://highwe2hell.top/tags/typora/</link><description>Recent content in Typora on Highwe2hell 的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Highwe2hell</copyright><lastBuildDate>Mon, 01 Jul 2024 19:00:00 +0800</lastBuildDate><atom:link href="https://highwe2hell.top/tags/typora/index.xml" rel="self" type="application/rss+xml"/><item><title>Typora 免费安装教程（已支持最新版 1.9.5）</title><link>https://highwe2hell.top/cd6f0a03/</link><pubDate>Mon, 01 Jul 2024 19:00:00 +0800</pubDate><guid>https://highwe2hell.top/cd6f0a03/</guid><description>&lt;img src="https://highwe2hell.top/cd6f0a03/cover.png" alt="Featured image of post Typora 免费安装教程（已支持最新版 1.9.5）" />&lt;blockquote>
 &lt;p>实测可用，无需修改注册表、修改代码等复杂操作。&lt;/p>
 &lt;/blockquote>
-&lt;h2 id="typora-介绍">Typora 介绍
+&lt;h2 id="一typora-介绍">一、Typora 介绍
 &lt;/h2>&lt;p>Typora 是一款广受欢迎的跨平台 Markdown 编辑器，以其简洁的界面和流畅的用户体验而著称。它支持实时预览功能，使您在编辑 Markdown 文档的同时即可看到最终效果，无需切换视图。此外，Typora 提供了自动保存、多种导出格式（如 PDF、HTML、Word 等）以及丰富的主题和样式选项，满足不同用户的需求。通过直观的操作界面和便捷的快捷键，您可以轻松地进行文本编辑、格式调整和内容管理，使写作、笔记记录和文档编写更加高效。无论是编程开发者、作家还是学生，Typora 都能为您提供出色的 Markdown 编辑体验。&lt;/p>
-&lt;h2 id="使用方法">使用方法
+&lt;h2 id="二使用方法">二、使用方法
 &lt;/h2>&lt;p>该激活工具来自 GitHub 开源项目，有编程基础者及 Linux 用户可自行编译使用。&lt;/p>
 &lt;p>项目链接：https://github.com/DiamondHunters/NodeInject_Hook_example&lt;/p>
 &lt;p>我已经将 Windows 版工具打包，下载即用，以下是操作步骤：&lt;/p>
-&lt;h3 id="下载安装包及激活工具">下载安装包及激活工具。
+&lt;h3 id="1-下载安装包及激活工具">1. 下载安装包及激活工具
 &lt;/h3>&lt;p>Typora 官网地址：https://typora.io&lt;/p>
 &lt;p>Typora 中文官网地址：https://typoraio.cn&lt;/p>
 &lt;p>激活工具下载地址：https://www.lanzouw.com/iDDeC22vk80j&lt;/p>
-&lt;h3 id="安装-typora-并解压压缩包">安装 Typora 并解压压缩包
+&lt;h3 id="2-安装-typora-并解压压缩包">2. 安装 Typora 并解压压缩包
 &lt;/h3>&lt;p>Typora 的安装过程我就不演示了，一直下一步即可。激活工具下载完会得到一个 rar 压缩包，将其解压后里面有两个 exe 文件。&lt;/p>
-&lt;h3 id="将文件复制到-typora-安装目录">将文件复制到 Typora 安装目录
+&lt;h3 id="3-将文件复制到-typora-安装目录">3. 将文件复制到 Typora 安装目录
 &lt;/h3>&lt;p>把解压出来的两个 exe 文件复制到 Typora 的安装目录下。&lt;/p>
-&lt;h3 id="以管理员身份运行-cmd">以管理员身份运行 CMD
+&lt;h3 id="4-以管理员身份运行-cmd">4. 以管理员身份运行 CMD
 &lt;/h3>&lt;p>点击 Windows 键或系统搜索框搜索 CMD（即命令提示符），并以管理员身份运行。&lt;/p>
-&lt;h3 id="输入指令并运行工具">输入指令并运行工具
+&lt;h3 id="5-输入指令并运行工具">5. 输入指令并运行工具
 &lt;/h3>&lt;p>将 CMD 跳转到安装目录。&lt;/p>
 &lt;p>先将 CMD 跳转到对应磁盘，如“D:”，再输入“cd 安装路径”，按回车，跳转到 Typora 安装路径。&lt;/p>
 &lt;p>输入指令获得激活码。&lt;/p>
@@ -25,11 +25,11 @@
 &lt;li>先输入 node_inject.exe 按回车，等待提示“done!”。&lt;/li>
 &lt;li>再输入 license-gen.exe 按回车，等待显示序列号。&lt;/li>
 &lt;/ul>
-&lt;h3 id="打开-typora-并输入序列号">打开 Typora 并输入序列号
+&lt;h3 id="6-打开-typora-并输入序列号">6. 打开 Typora 并输入序列号
 &lt;/h3>&lt;p>邮箱随便填，复制序列号后点击激活按钮。&lt;/p>
-&lt;h3 id="错误提示">错误提示
+&lt;h3 id="7-错误提示">7. 错误提示
 &lt;/h3>&lt;p>有可能会弹出错误提示，点击确认即可。&lt;/p>
-&lt;h3 id="激活完成">激活完成。
+&lt;h3 id="8-激活完成">8. 激活完成
 &lt;/h3>&lt;p>激活成功后不要更新，会导致失效。如果必须要更新，需要先将旧版本 Typora 彻底卸载干净，再重新安装新版本。&lt;/p>
-&lt;h2 id="结语">结语
+&lt;h2 id="三结语">三、结语
 &lt;/h2>&lt;p>通过以上步骤，您可以轻松安装 Typora，使其成为您日常工作中不可或缺的 Markdown 编辑器。Typora 简洁高效的功能和友好的用户界面，将大大提升您的写作、编程和文档处理效率。如果这篇文章对您有所帮助，请不吝给予好评，您的支持是我持续分享更多有用资源的动力！感谢您的阅读，祝您使用愉快！&lt;/p></description></item></channel></rss>
