@@ -1,240 +1,161 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Typora on Highwe2hell&#39;s Blog</title>
-        <link>http://localhost:1313/en/tags/typora/</link>
-        <description>Recent content in Typora on Highwe2hell&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <copyright>Highwe2hell</copyright>
-        <lastBuildDate>Mon, 01 Jul 2024 19:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/en/tags/typora/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Typora Free Activation Tutorial(1.9.5)</title>
-        <link>http://localhost:1313/en/ca281108/</link>
-        <pubDate>Mon, 01 Jul 2024 19:00:00 +0800</pubDate>
-        
-        <guid>http://localhost:1313/en/ca281108/</guid>
-        <description>
-
-
-&lt;div class=&#34;notice notice-tip&#34; &gt;
-    &lt;div class=&#34;notice-title&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon notice-icon&#34; viewBox=&#34;0 0 512 512&#34; fill=&#34;hsl(140, 65%, 65%)&#34;&gt;&lt;path d=&#34;M504 256a248 248 0 11-496 0 248 248 0 01496 0zM227 387l184-184c7-6 7-16 0-22l-22-23c-7-6-17-6-23 0L216 308l-70-70c-6-6-16-6-23 0l-22 23c-7 6-7 16 0 22l104 104c6 7 16 7 22 0z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;&lt;p&gt;实测可用，无需修改注册表、修改代码等复杂操作。&lt;/p&gt;&lt;/div&gt;
-
-&lt;h2 id=&#34;一typora-介绍&#34;&gt;一、Typora 介绍
-&lt;/h2&gt;&lt;p&gt;Typora 是一款跨平台的 Markdown 编辑器，因其简洁的界面和流畅的用户体验而受到广泛欢迎。它支持实时预览功能，让您在编辑 Markdown 文档的同时即时查看最终效果，无需切换视图。此外，Typora 还提供自动保存、多种导出格式（如 PDF、HTML、Word 等）、丰富的主题和样式选项，能够满足不同用户的需求。通过直观的操作界面和快捷键支持，您可以轻松进行文本编辑、格式调整和内容管理，极大提升写作、笔记记录和文档编写的效率。无论您是编程开发者、作家还是学生，Typora 都能为您带来出色的 Markdown 编辑体验。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cd6f0a03/img01.jpg&#34;
-	width=&#34;1125&#34;
-	height=&#34;539&#34;
-	srcset=&#34;http://localhost:1313/cd6f0a03/img01_hufebe123bd77c3efede5dee75b0ab5f99_82777_480x0_resize_q75_box.jpg 480w, http://localhost:1313/cd6f0a03/img01_hufebe123bd77c3efede5dee75b0ab5f99_82777_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Typora 主页&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;208&#34;
-		data-flex-basis=&#34;500px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;二激活方法&#34;&gt;二、激活方法
-&lt;/h2&gt;
-
-
-&lt;div class=&#34;notice notice-note&#34; &gt;
-    &lt;div class=&#34;notice-title&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon notice-icon&#34; viewBox=&#34;0 0 512 512&#34; fill=&#34;hsl(200, 65%, 65%)&#34;&gt;&lt;path d=&#34;M504 256a248 248 0 11-496 0 248 248 0 01496 0zm-248 50a46 46 0 100 92 46 46 0 000-92zm-44-165l8 136c0 6 5 11 12 11h48c7 0 12-5 12-11l8-136c0-7-5-13-12-13h-64c-7 0-12 6-12 13z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;&lt;p&gt;该激活工具来自&lt;a class=&#34;link&#34; href=&#34;https://github.com/DiamondHunters/NodeInject_Hook_example&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt; GitHub 开源项目：DiamondHunters/NodeInject_Hook_example&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;有编程基础者及 Linux 用户可自行编译使用。&lt;/p&gt;
-&lt;p&gt;我已经将 Windows 版工具打包，下载即用，以下是操作步骤：&lt;/p&gt;&lt;/div&gt;
-
-&lt;h3 id=&#34;1-下载安装包及激活工具&#34;&gt;1. 下载安装包及激活工具
-&lt;/h3&gt;&lt;p&gt;Typora 官网地址：&lt;a class=&#34;link&#34; href=&#34;https://typora.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://typora.io&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Typora 中文官网地址：&lt;a class=&#34;link&#34; href=&#34;https://typoraio.cn&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://typoraio.cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;激活工具下载地址：&lt;a class=&#34;link&#34; href=&#34;https://www.lanzouh.com/i7j9H26waded&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;蓝奏云 | 密码：fkmj&lt;/a&gt; &amp;amp;&amp;amp; &lt;a class=&#34;link&#34; href=&#34;https://pan.baidu.com/s/1gga2OZ732Xvig1QKn52NHQ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;百度网盘 | 密码：dcqe&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cd6f0a03/img02.jpg&#34;
-	width=&#34;1125&#34;
-	height=&#34;589&#34;
-	srcset=&#34;http://localhost:1313/cd6f0a03/img02_hu42ee050693905ba1cc098106bb3ec020_39504_480x0_resize_q75_box.jpg 480w, http://localhost:1313/cd6f0a03/img02_hu42ee050693905ba1cc098106bb3ec020_39504_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;下载 Typora&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;191&#34;
-		data-flex-basis=&#34;458px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cd6f0a03/img03.jpg&#34;
-	width=&#34;1137&#34;
-	height=&#34;454&#34;
-	srcset=&#34;http://localhost:1313/cd6f0a03/img03_hudc963d9a1f1dfa29d59d33ff3156a114_27044_480x0_resize_q75_box.jpg 480w, http://localhost:1313/cd6f0a03/img03_hudc963d9a1f1dfa29d59d33ff3156a114_27044_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;下载激活工具&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;250&#34;
-		data-flex-basis=&#34;601px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h3 id=&#34;2-安装-typora-并解压压缩包&#34;&gt;2. 安装 Typora 并解压压缩包
-&lt;/h3&gt;&lt;p&gt;Typora 的安装过程我就不演示了，只需按提示点击“下一步”即可。接着，将下载的激活工具压缩包解压，您会看到两个 exe 文件。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cd6f0a03/img04.jpg&#34;
-	width=&#34;618&#34;
-	height=&#34;114&#34;
-	srcset=&#34;http://localhost:1313/cd6f0a03/img04_hu964780f23525edcdcf72bf6f215d7c70_8861_480x0_resize_q75_box.jpg 480w, http://localhost:1313/cd6f0a03/img04_hu964780f23525edcdcf72bf6f215d7c70_8861_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;安装包和压缩包&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;542&#34;
-		data-flex-basis=&#34;1301px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cd6f0a03/img05.jpg&#34;
-	width=&#34;618&#34;
-	height=&#34;126&#34;
-	srcset=&#34;http://localhost:1313/cd6f0a03/img05_hu7945058db5caa28019832c9afae5e56e_6989_480x0_resize_q75_box.jpg 480w, http://localhost:1313/cd6f0a03/img05_hu7945058db5caa28019832c9afae5e56e_6989_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;激活工具&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;490&#34;
-		data-flex-basis=&#34;1177px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h3 id=&#34;3-将文件复制到-typora-安装目录&#34;&gt;3. 将文件复制到 Typora 安装目录
-&lt;/h3&gt;&lt;p&gt;把解压出来的两个 exe 文件复制到 Typora 的安装目录下，默认路径为：C:\Program Files\Typora，如安装在其他路径，请自行替换。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cd6f0a03/img06.jpg&#34;
-	width=&#34;1125&#34;
-	height=&#34;634&#34;
-	srcset=&#34;http://localhost:1313/cd6f0a03/img06_hu0dde2d793e100b309be601e34e31a74e_64158_480x0_resize_q75_box.jpg 480w, http://localhost:1313/cd6f0a03/img06_hu0dde2d793e100b309be601e34e31a74e_64158_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Typora 安装目录&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;177&#34;
-		data-flex-basis=&#34;425px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h3 id=&#34;4-以管理员身份运行-cmd&#34;&gt;4. 以管理员身份运行 CMD
-&lt;/h3&gt;&lt;p&gt;点击 Windows 键或在系统搜索框搜索 CMD（即命令提示符），并以管理员身份运行。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cd6f0a03/img07.jpg&#34;
-	width=&#34;731&#34;
-	height=&#34;678&#34;
-	srcset=&#34;http://localhost:1313/cd6f0a03/img07_hu24a5bb9218d5abdbd311c6e7087809aa_27509_480x0_resize_q75_box.jpg 480w, http://localhost:1313/cd6f0a03/img07_hu24a5bb9218d5abdbd311c6e7087809aa_27509_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;以管理员身份运行 CMD&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;107&#34;
-		data-flex-basis=&#34;258px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h3 id=&#34;5-输入指令并运行工具&#34;&gt;5. 输入指令并运行工具
-&lt;/h3&gt;
-
-
-&lt;div class=&#34;notice notice-note&#34; &gt;
-    &lt;div class=&#34;notice-title&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon notice-icon&#34; viewBox=&#34;0 0 512 512&#34; fill=&#34;hsl(200, 65%, 65%)&#34;&gt;&lt;path d=&#34;M504 256a248 248 0 11-496 0 248 248 0 01496 0zm-248 50a46 46 0 100 92 46 46 0 000-92zm-44-165l8 136c0 6 5 11 12 11h48c7 0 12-5 12-11l8-136c0-7-5-13-12-13h-64c-7 0-12 6-12 13z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;&lt;p&gt;如果安装在 D 盘或其他盘，需要先输入&lt;code&gt;D:&lt;/code&gt;跳转到对应盘符，再输入以下内容：&lt;/p&gt;&lt;/div&gt;
-
-&lt;ol&gt;
-&lt;li&gt;输入&lt;mark&gt; cd C:\Program Files\Typora &lt;/mark&gt;按回车，跳转到 Typora 安装路径。&lt;/li&gt;
-&lt;li&gt;输入&lt;mark&gt; node_inject.exe &lt;/mark&gt;按回车，等待提示“&lt;strong&gt;done!&lt;/strong&gt;”。&lt;/li&gt;
-&lt;li&gt;输入&lt;mark&gt; license-gen.exe &lt;/mark&gt;按回车，等待显示序列号。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cd6f0a03/img08.jpg&#34;
-	width=&#34;979&#34;
-	height=&#34;512&#34;
-	srcset=&#34;http://localhost:1313/cd6f0a03/img08_hu340694ee33a1f75b199265c365458979_18894_480x0_resize_q75_box.jpg 480w, http://localhost:1313/cd6f0a03/img08_hu340694ee33a1f75b199265c365458979_18894_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;在 CMD 中切换路径&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;191&#34;
-		data-flex-basis=&#34;458px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cd6f0a03/img09.jpg&#34;
-	width=&#34;979&#34;
-	height=&#34;512&#34;
-	srcset=&#34;http://localhost:1313/cd6f0a03/img09_hu21bfa943d37ffb4740dd445be3d3f907_28645_480x0_resize_q75_box.jpg 480w, http://localhost:1313/cd6f0a03/img09_hu21bfa943d37ffb4740dd445be3d3f907_28645_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;在 CMD 中运行工具&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;191&#34;
-		data-flex-basis=&#34;458px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h3 id=&#34;6-激活-typora&#34;&gt;6. 激活 Typora
-&lt;/h3&gt;&lt;p&gt;启动 Typora，随意输入邮箱地址，并将生成的序列号粘贴到激活窗口中，点击激活按钮。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cd6f0a03/img10.jpg&#34;
-	width=&#34;760&#34;
-	height=&#34;460&#34;
-	srcset=&#34;http://localhost:1313/cd6f0a03/img10_hu73e2a4672caa87a176dac8e9ae1f7540_20158_480x0_resize_q75_box.jpg 480w, http://localhost:1313/cd6f0a03/img10_hu73e2a4672caa87a176dac8e9ae1f7540_20158_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;输入序列号&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;165&#34;
-		data-flex-basis=&#34;396px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h3 id=&#34;7-错误提示&#34;&gt;7. 错误提示
-&lt;/h3&gt;&lt;p&gt;稍等数秒后，若因网络原因出现错误提示，点击确认即可，无需担心。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cd6f0a03/img11.jpg&#34;
-	width=&#34;760&#34;
-	height=&#34;460&#34;
-	srcset=&#34;http://localhost:1313/cd6f0a03/img11_hua5df7998b903da01f0a17a73e0f9e327_15260_480x0_resize_q75_box.jpg 480w, http://localhost:1313/cd6f0a03/img11_hua5df7998b903da01f0a17a73e0f9e327_15260_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34; 错误提示&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;165&#34;
-		data-flex-basis=&#34;396px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h3 id=&#34;8-激活成功&#34;&gt;8. 激活成功
-&lt;/h3&gt;&lt;p&gt;激活成功后请勿更新 Typora，否则可能激活失效。如果需要更新，请先彻底卸载旧版本，再安装新版本并重新激活。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/cd6f0a03/img12.jpg&#34;
-	width=&#34;525&#34;
-	height=&#34;420&#34;
-	srcset=&#34;http://localhost:1313/cd6f0a03/img12_hu2000ec48a1ca33060a366520de65b2b3_13919_480x0_resize_q75_box.jpg 480w, http://localhost:1313/cd6f0a03/img12_hu2000ec48a1ca33060a366520de65b2b3_13919_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;激活成功&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;125&#34;
-		data-flex-basis=&#34;300px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;三结语&#34;&gt;三、结语
-&lt;/h2&gt;&lt;p&gt;通过上述步骤，您可以轻松激活并使用 Typora，使其成为您日常工作中不可或缺的 Markdown 编辑器。其简洁高效的功能和友好的用户界面，将极大提升您的写作、编程和文档处理效率。如果您觉得本教程对您有帮助，请留下好评，您的支持是我持续分享有用资源的动力！感谢阅读，祝您使用愉快！&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Typora on Highwe2hell's Blog</title><link>https://highwe2hell.top/en/tags/typora/</link><description>Recent content in Typora on Highwe2hell's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Highwe2hell</copyright><lastBuildDate>Sat, 03 Aug 2024 19:00:00 +0800</lastBuildDate><atom:link href="https://highwe2hell.top/en/tags/typora/index.xml" rel="self" type="application/rss+xml"/><item><title>Typora free activation tutorial (supports the latest version 1.9.5)</title><link>https://highwe2hell.top/en/cd6f0a03/</link><pubDate>Sat, 03 Aug 2024 19:00:00 +0800</pubDate><guid>https://highwe2hell.top/en/cd6f0a03/</guid><description>&lt;img src="https://highwe2hell.top/cd6f0a03/cover.jpg" alt="Featured image of post Typora free activation tutorial (supports the latest version 1.9.5)" />
+&lt;div class="notice notice-tip" >
+&lt;div class="notice-title">&lt;svg xmlns="http://www.w3.org/2000/svg" class="icon notice-icon" viewBox="0 0 512 512" fill="hsl(140, 65%, 65%)">&lt;path d="M504 256a248 248 0 11-496 0 248 248 0 01496 0zM227 387l184-184c7-6 7-16 0-22l-22-23c-7-6-17-6-23 0L216 308l-70-70c-6-6-16-6-23 0l-22 23c-7 6-7 16 0 22l104 104c6 7 16 7 22 0z"/>&lt;/svg>&lt;/div>&lt;p>实测可用，无需修改注册表、修改代码等复杂操作。&lt;/p>&lt;/div>
+&lt;h2 id="一typora-介绍">一、Typora 介绍
+&lt;/h2>&lt;p>&lt;strong>Typora&lt;/strong> 是一款跨平台的 Markdown 编辑器，因其简洁的界面和流畅的用户体验而受到广泛欢迎。它支持实时预览功能，让您在编辑 Markdown 文档的同时即时查看最终效果，无需切换视图。此外，Typora 还提供自动保存、多种导出格式（如 PDF、HTML、Word 等）、丰富的主题和样式选项，能够满足不同用户的需求。通过直观的操作界面和快捷键支持，您可以轻松进行文本编辑、格式调整和内容管理，极大提升写作、笔记记录和文档编写的效率。无论您是编程开发者、作家还是学生，Typora 都能为您带来出色的 Markdown 编辑体验。&lt;/p>
+&lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img01.jpg"
+width="1125"
+height="539"
+srcset="https://highwe2hell.top/cd6f0a03/img01_hufebe123bd77c3efede5dee75b0ab5f99_82777_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img01_hufebe123bd77c3efede5dee75b0ab5f99_82777_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Typora 主页"
+class="gallery-image"
+data-flex-grow="208"
+data-flex-basis="500px"
+>&lt;/p>
+&lt;h2 id="二激活步骤">二、激活步骤
+&lt;/h2>
+&lt;div class="notice notice-note" >
+&lt;div class="notice-title">&lt;svg xmlns="http://www.w3.org/2000/svg" class="icon notice-icon" viewBox="0 0 512 512" fill="hsl(200, 65%, 65%)">&lt;path d="M504 256a248 248 0 11-496 0 248 248 0 01496 0zm-248 50a46 46 0 100 92 46 46 0 000-92zm-44-165l8 136c0 6 5 11 12 11h48c7 0 12-5 12-11l8-136c0-7-5-13-12-13h-64c-7 0-12 6-12 13z"/>&lt;/svg>&lt;/div>&lt;p>该激活工具来自 &lt;a class="link" href="https://github.com/DiamondHunters/NodeInject_Hook_example" target="_blank" rel="noopener"
+>GitHub 开源项目：DiamondHunters/NodeInject_Hook_example&lt;/a>&lt;/p>
+&lt;p>有编程基础者及 Linux 用户可自行编译使用。&lt;/p>
+&lt;p>我已经将 Windows 版工具打包，下载即用，以下是操作步骤：&lt;/p>&lt;/div>
+&lt;h3 id="1-下载安装包及激活工具">1. 下载安装包及激活工具
+&lt;/h3>&lt;p>Typora 官网地址：&lt;a class="link" href="https://typora.io" target="_blank" rel="noopener"
+>https://typora.io&lt;/a>&lt;/p>
+&lt;p>Typora 中文官网地址：&lt;a class="link" href="https://typoraio.cn" target="_blank" rel="noopener"
+>https://typoraio.cn&lt;/a>&lt;/p>
+&lt;p>激活工具下载地址：&lt;a class="link" href="https://www.lanzouh.com/i7j9H26waded" target="_blank" rel="noopener"
+>蓝奏云，密码：fkmj&lt;/a> || &lt;a class="link" href="https://pan.baidu.com/s/1gga2OZ732Xvig1QKn52NHQ" target="_blank" rel="noopener"
+>百度网盘，密码：dcqe&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img02.jpg"
+width="1125"
+height="589"
+srcset="https://highwe2hell.top/cd6f0a03/img02_hu42ee050693905ba1cc098106bb3ec020_39504_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img02_hu42ee050693905ba1cc098106bb3ec020_39504_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="下载 Typora"
+class="gallery-image"
+data-flex-grow="191"
+data-flex-basis="458px"
+>&lt;/p>
+&lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img03.jpg"
+width="1137"
+height="454"
+srcset="https://highwe2hell.top/cd6f0a03/img03_hudc963d9a1f1dfa29d59d33ff3156a114_27044_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img03_hudc963d9a1f1dfa29d59d33ff3156a114_27044_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="下载激活工具"
+class="gallery-image"
+data-flex-grow="250"
+data-flex-basis="601px"
+>&lt;/p>
+&lt;h3 id="2-安装-typora-并解压压缩包">2. 安装 Typora 并解压压缩包
+&lt;/h3>&lt;p>Typora 的安装过程我就不演示了，只需按提示点击“下一步”即可。接着，将下载的激活工具压缩包解压，您会看到两个 &lt;code>exe&lt;/code> 文件。&lt;/p>
+&lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img04.jpg"
+width="618"
+height="114"
+srcset="https://highwe2hell.top/cd6f0a03/img04_hu964780f23525edcdcf72bf6f215d7c70_8861_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img04_hu964780f23525edcdcf72bf6f215d7c70_8861_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="安装包和压缩包"
+class="gallery-image"
+data-flex-grow="542"
+data-flex-basis="1301px"
+>&lt;/p>
+&lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img05.jpg"
+width="618"
+height="126"
+srcset="https://highwe2hell.top/cd6f0a03/img05_hu7945058db5caa28019832c9afae5e56e_6989_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img05_hu7945058db5caa28019832c9afae5e56e_6989_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="激活工具"
+class="gallery-image"
+data-flex-grow="490"
+data-flex-basis="1177px"
+>&lt;/p>
+&lt;h3 id="3-将文件复制到-typora-安装目录">3. 将文件复制到 Typora 安装目录
+&lt;/h3>&lt;p>把解压出来的两个 &lt;code>exe&lt;/code> 文件复制到 Typora 的安装目录下，默认路径为：&lt;code>C:\Program Files\Typora&lt;/code>，如安装在其他路径，请自行替换。&lt;/p>
+&lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img06.jpg"
+width="1125"
+height="634"
+srcset="https://highwe2hell.top/cd6f0a03/img06_hu0dde2d793e100b309be601e34e31a74e_64158_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img06_hu0dde2d793e100b309be601e34e31a74e_64158_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Typora 安装目录"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="425px"
+>&lt;/p>
+&lt;h3 id="4-以管理员身份运行-cmd">4. 以管理员身份运行 CMD
+&lt;/h3>&lt;p>点击 Windows 键或在系统搜索框搜索 &lt;code>CMD&lt;/code>（即命令提示符），并以管理员身份运行。&lt;/p>
+&lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img07.jpg"
+width="731"
+height="678"
+srcset="https://highwe2hell.top/cd6f0a03/img07_hu24a5bb9218d5abdbd311c6e7087809aa_27509_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img07_hu24a5bb9218d5abdbd311c6e7087809aa_27509_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="以管理员身份运行 CMD"
+class="gallery-image"
+data-flex-grow="107"
+data-flex-basis="258px"
+>&lt;/p>
+&lt;h3 id="5-输入指令并运行工具">5. 输入指令并运行工具
+&lt;/h3>
+&lt;div class="notice notice-note" >
+&lt;div class="notice-title">&lt;svg xmlns="http://www.w3.org/2000/svg" class="icon notice-icon" viewBox="0 0 512 512" fill="hsl(200, 65%, 65%)">&lt;path d="M504 256a248 248 0 11-496 0 248 248 0 01496 0zm-248 50a46 46 0 100 92 46 46 0 000-92zm-44-165l8 136c0 6 5 11 12 11h48c7 0 12-5 12-11l8-136c0-7-5-13-12-13h-64c-7 0-12 6-12 13z"/>&lt;/svg>&lt;/div>&lt;p>如果安装在 D 盘或其他盘，需要先输入 &lt;code>D:&lt;/code>跳转到对应盘符，再输入以下内容：&lt;/p>&lt;/div>
+&lt;p>（1）输入 &lt;mark>cd C:\Program Files\Typora&lt;/mark> 按回车，跳转到 Typora 安装路径。&lt;/p>
+&lt;p>（2）输入 &lt;mark>node_inject.exe&lt;/mark> 按回车，等待提示“&lt;strong>done!&lt;/strong>”。&lt;/p>
+&lt;p>（3）输入 &lt;mark>license-gen.exe&lt;/mark> 按回车，等待显示序列号。&lt;/p>
+&lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img08.jpg"
+width="979"
+height="512"
+srcset="https://highwe2hell.top/cd6f0a03/img08_hu340694ee33a1f75b199265c365458979_18894_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img08_hu340694ee33a1f75b199265c365458979_18894_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="在 CMD 中切换路径"
+class="gallery-image"
+data-flex-grow="191"
+data-flex-basis="458px"
+>&lt;/p>
+&lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img09.jpg"
+width="979"
+height="512"
+srcset="https://highwe2hell.top/cd6f0a03/img09_hu21bfa943d37ffb4740dd445be3d3f907_28645_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img09_hu21bfa943d37ffb4740dd445be3d3f907_28645_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="在 CMD 中运行工具"
+class="gallery-image"
+data-flex-grow="191"
+data-flex-basis="458px"
+>&lt;/p>
+&lt;h3 id="6-激活-typora">6. 激活 Typora
+&lt;/h3>&lt;p>启动 Typora，随意输入邮箱地址，并将生成的序列号粘贴到激活窗口中，点击激活按钮。&lt;/p>
+&lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img10.jpg"
+width="760"
+height="460"
+srcset="https://highwe2hell.top/cd6f0a03/img10_hu73e2a4672caa87a176dac8e9ae1f7540_20158_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img10_hu73e2a4672caa87a176dac8e9ae1f7540_20158_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="输入序列号"
+class="gallery-image"
+data-flex-grow="165"
+data-flex-basis="396px"
+>&lt;/p>
+&lt;h3 id="7-错误提示">7. 错误提示
+&lt;/h3>&lt;p>稍等数秒后，若因网络原因出现错误提示，点击确认即可，无需担心。&lt;/p>
+&lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img11.jpg"
+width="760"
+height="460"
+srcset="https://highwe2hell.top/cd6f0a03/img11_hua5df7998b903da01f0a17a73e0f9e327_15260_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img11_hua5df7998b903da01f0a17a73e0f9e327_15260_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt=" 错误提示"
+class="gallery-image"
+data-flex-grow="165"
+data-flex-basis="396px"
+>&lt;/p>
+&lt;h3 id="8-激活成功">8. 激活成功
+&lt;/h3>&lt;p>激活成功后请勿更新 Typora，否则可能激活失效。如果需要更新，请先彻底卸载旧版本，再安装新版本并重新激活。&lt;/p>
+&lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img12.jpg"
+width="525"
+height="420"
+srcset="https://highwe2hell.top/cd6f0a03/img12_hu2000ec48a1ca33060a366520de65b2b3_13919_480x0_resize_q75_box.jpg 480w, https://highwe2hell.top/cd6f0a03/img12_hu2000ec48a1ca33060a366520de65b2b3_13919_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="激活成功"
+class="gallery-image"
+data-flex-grow="125"
+data-flex-basis="300px"
+>&lt;/p>
+&lt;h2 id="三结语">三、结语
+&lt;/h2>&lt;p>通过上述步骤，您可以轻松激活并使用 &lt;strong>Typora&lt;/strong>，使其成为您日常工作中不可或缺的 Markdown 编辑器。其简洁高效的功能和友好的用户界面，将极大提升您的写作、编程和文档处理效率。如果您觉得本教程对您有帮助，请留下好评，您的支持是我持续分享有用资源的动力！感谢阅读，祝您使用愉快！&lt;/p></description></item></channel></rss>

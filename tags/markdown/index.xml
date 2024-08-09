@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Markdown on Highwe2hell 的博客</title><link>https://highwe2hell.top/tags/markdown/</link><description>Recent content in Markdown on Highwe2hell 的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Highwe2hell</copyright><lastBuildDate>Mon, 01 Jul 2024 19:00:00 +0800</lastBuildDate><atom:link href="https://highwe2hell.top/tags/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>Typora 免费激活教程（已支持最新版 1.9.5）</title><link>https://highwe2hell.top/cd6f0a03/</link><pubDate>Mon, 01 Jul 2024 19:00:00 +0800</pubDate><guid>https://highwe2hell.top/cd6f0a03/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Markdown on Highwe2hell 的博客</title><link>https://highwe2hell.top/tags/markdown/</link><description>Recent content in Markdown on Highwe2hell 的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Highwe2hell</copyright><lastBuildDate>Sat, 03 Aug 2024 19:00:00 +0800</lastBuildDate><atom:link href="https://highwe2hell.top/tags/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>Typora 免费激活教程（已支持最新版 1.9.5）</title><link>https://highwe2hell.top/cd6f0a03/</link><pubDate>Sat, 03 Aug 2024 19:00:00 +0800</pubDate><guid>https://highwe2hell.top/cd6f0a03/</guid><description>&lt;img src="https://highwe2hell.top/cd6f0a03/cover.jpg" alt="Featured image of post Typora 免费激活教程（已支持最新版 1.9.5）" />
 &lt;div class="notice notice-tip" >
 &lt;div class="notice-title">&lt;svg xmlns="http://www.w3.org/2000/svg" class="icon notice-icon" viewBox="0 0 512 512" fill="hsl(140, 65%, 65%)">&lt;path d="M504 256a248 248 0 11-496 0 248 248 0 01496 0zM227 387l184-184c7-6 7-16 0-22l-22-23c-7-6-17-6-23 0L216 308l-70-70c-6-6-16-6-23 0l-22 23c-7 6-7 16 0 22l104 104c6 7 16 7 22 0z"/>&lt;/svg>&lt;/div>&lt;p>实测可用，无需修改注册表、修改代码等复杂操作。&lt;/p>&lt;/div>
 &lt;h2 id="一typora-介绍">一、Typora 介绍
@@ -16,8 +16,8 @@ data-flex-basis="500px"
 &lt;h2 id="二激活步骤">二、激活步骤
 &lt;/h2>
 &lt;div class="notice notice-note" >
-&lt;div class="notice-title">&lt;svg xmlns="http://www.w3.org/2000/svg" class="icon notice-icon" viewBox="0 0 512 512" fill="hsl(200, 65%, 65%)">&lt;path d="M504 256a248 248 0 11-496 0 248 248 0 01496 0zm-248 50a46 46 0 100 92 46 46 0 000-92zm-44-165l8 136c0 6 5 11 12 11h48c7 0 12-5 12-11l8-136c0-7-5-13-12-13h-64c-7 0-12 6-12 13z"/>&lt;/svg>&lt;/div>&lt;p>该激活工具来自&lt;a class="link" href="https://github.com/DiamondHunters/NodeInject_Hook_example" target="_blank" rel="noopener"
-> GitHub 开源项目：DiamondHunters/NodeInject_Hook_example&lt;/a>&lt;/p>
+&lt;div class="notice-title">&lt;svg xmlns="http://www.w3.org/2000/svg" class="icon notice-icon" viewBox="0 0 512 512" fill="hsl(200, 65%, 65%)">&lt;path d="M504 256a248 248 0 11-496 0 248 248 0 01496 0zm-248 50a46 46 0 100 92 46 46 0 000-92zm-44-165l8 136c0 6 5 11 12 11h48c7 0 12-5 12-11l8-136c0-7-5-13-12-13h-64c-7 0-12 6-12 13z"/>&lt;/svg>&lt;/div>&lt;p>该激活工具来自 &lt;a class="link" href="https://github.com/DiamondHunters/NodeInject_Hook_example" target="_blank" rel="noopener"
+>GitHub 开源项目：DiamondHunters/NodeInject_Hook_example&lt;/a>&lt;/p>
 &lt;p>有编程基础者及 Linux 用户可自行编译使用。&lt;/p>
 &lt;p>我已经将 Windows 版工具打包，下载即用，以下是操作步骤：&lt;/p>&lt;/div>
 &lt;h3 id="1-下载安装包及激活工具">1. 下载安装包及激活工具
@@ -97,12 +97,10 @@ data-flex-basis="258px"
 &lt;h3 id="5-输入指令并运行工具">5. 输入指令并运行工具
 &lt;/h3>
 &lt;div class="notice notice-note" >
-&lt;div class="notice-title">&lt;svg xmlns="http://www.w3.org/2000/svg" class="icon notice-icon" viewBox="0 0 512 512" fill="hsl(200, 65%, 65%)">&lt;path d="M504 256a248 248 0 11-496 0 248 248 0 01496 0zm-248 50a46 46 0 100 92 46 46 0 000-92zm-44-165l8 136c0 6 5 11 12 11h48c7 0 12-5 12-11l8-136c0-7-5-13-12-13h-64c-7 0-12 6-12 13z"/>&lt;/svg>&lt;/div>&lt;p>如果安装在 D 盘或其他盘，需要先输入&lt;code>D:&lt;/code>跳转到对应盘符，再输入以下内容：&lt;/p>&lt;/div>
-&lt;ol>
-&lt;li>输入&lt;mark> cd C:\Program Files\Typora &lt;/mark>按回车，跳转到 Typora 安装路径。&lt;/li>
-&lt;li>输入&lt;mark> node_inject.exe &lt;/mark>按回车，等待提示“&lt;strong>done!&lt;/strong>”。&lt;/li>
-&lt;li>输入&lt;mark> license-gen.exe &lt;/mark>按回车，等待显示序列号。&lt;/li>
-&lt;/ol>
+&lt;div class="notice-title">&lt;svg xmlns="http://www.w3.org/2000/svg" class="icon notice-icon" viewBox="0 0 512 512" fill="hsl(200, 65%, 65%)">&lt;path d="M504 256a248 248 0 11-496 0 248 248 0 01496 0zm-248 50a46 46 0 100 92 46 46 0 000-92zm-44-165l8 136c0 6 5 11 12 11h48c7 0 12-5 12-11l8-136c0-7-5-13-12-13h-64c-7 0-12 6-12 13z"/>&lt;/svg>&lt;/div>&lt;p>如果安装在 D 盘或其他盘，需要先输入 &lt;code>D:&lt;/code>跳转到对应盘符，再输入以下内容：&lt;/p>&lt;/div>
+&lt;p>（1）输入 &lt;mark>cd C:\Program Files\Typora&lt;/mark> 按回车，跳转到 Typora 安装路径。&lt;/p>
+&lt;p>（2）输入 &lt;mark>node_inject.exe&lt;/mark> 按回车，等待提示“&lt;strong>done!&lt;/strong>”。&lt;/p>
+&lt;p>（3）输入 &lt;mark>license-gen.exe&lt;/mark> 按回车，等待显示序列号。&lt;/p>
 &lt;p>&lt;img src="https://highwe2hell.top/cd6f0a03/img08.jpg"
 width="979"
 height="512"
