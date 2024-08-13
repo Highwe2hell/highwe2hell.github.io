@@ -1086,7 +1086,7 @@ data-flex-basis="300px"
 >出版物上数字用法的规定（国家标准GBT15835－2011）&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="https://zh.wikisource.org/zh-hans/GB_3100-1993_%E5%9B%BD%E9%99%85%E5%8D%95%E4%BD%8D%E5%88%B6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8" target="_blank" rel="noopener"
 >GB 3100-1993 国际单位制及其应用&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>关于</title><link>https://highwe2hell.top/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://highwe2hell.top/page/about/</guid><description>&lt;p>欢迎来到 &lt;strong>&lt;mark>highwe2hell.top&lt;/mark>&lt;/strong>！我是一个喜欢折腾各种工具和技术的编程爱好者，这个博客是我学习编程和探索技术的心血结晶。在这里，我分享自己在代码编写、网站搭建以及日常电脑使用中的心得与经验，希望这些内容能为你带来帮助和启发。&lt;/p>
+&lt;/ul></description></item><item><title>关于</title><link>https://highwe2hell.top/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://highwe2hell.top/page/about/</guid><description>&lt;p>欢迎来到 &lt;strong>&lt;mark>highwe2hell.top&lt;/mark>&lt;/strong>！我是一个喜欢折腾各种工具和技术的编程爱好者，这个博客是我学习编程和探索技术的成果展示。在这里，我分享自己在代码编写、网站搭建以及日常电脑使用中的心得与经验，希望这些内容能为你带来帮助和启发。&lt;/p>
 &lt;p>为了打造和维护这个博客，我使用了一些得力工具。它们在各自的领域里都非常出色，助我一臂之力，现将这些工具一一介绍给大家。&lt;/p>
 &lt;h4 id="网站生成与主题">网站生成与主题
 &lt;/h4>&lt;ul>
@@ -1117,24 +1117,26 @@ data-flex-basis="300px"
 &lt;li>&lt;strong>&lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
 >Unsplash&lt;/a>&lt;/strong>：Unsplash 提供了大量高质量的免费图片资源，为我的博客内容增添了视觉吸引力。无论是文章封面还是插图，Unsplash 都是我的首选图库。&lt;/li>
 &lt;/ul>
-&lt;h4 id="域名管理与托管">域名管理与托管
+&lt;h4 id="域名与安全管理">域名与安全管理
 &lt;/h4>&lt;ul>
 &lt;li>&lt;strong>&lt;a class="link" href="https://www.namesilo.com/" target="_blank" rel="noopener"
->NameSilo&lt;/a>&lt;/strong>：NameSilo 是我用来注册和管理域名的平台。它的易用性和价格优势使得我能够轻松地管理博客的域名，并确保域名解析的稳定性。&lt;/li>
-&lt;li>&lt;strong>&lt;a class="link" href="https://pages.github.com/" target="_blank" rel="noopener"
->GitHub Pages&lt;/a>&lt;/strong>：通过 GitHub Pages 服务，我可以将 Hugo 生成的静态网站直接发布到互联网上，并进行自动化的持续集成和部署。&lt;/li>
-&lt;/ul>
-&lt;h4 id="安全与性能优化">安全与性能优化
-&lt;/h4>&lt;ul>
+>NameSilo&lt;/a>&lt;/strong>：我使用 NameSilo 购买和管理博客的域名。它的易用性和价格优势使得我能够轻松地管理博客的域名。&lt;/li>
 &lt;li>&lt;strong>&lt;a class="link" href="https://www.cloudflare.com/" target="_blank" rel="noopener"
 >Cloudflare&lt;/a>&lt;/strong>：为了提升网站的安全性和访问速度，我将博客的流量通过 Cloudflare 进行加速和保护。它提供的 CDN 和 DDoS 防护功能，使得我的网站能够应对各种网络挑战，并为用户提供快速稳定的访问体验。&lt;/li>
 &lt;/ul>
-&lt;h4 id="评论系统与部署平台">评论系统与部署平台
+&lt;h4 id="托管与部署">托管与部署
+&lt;/h4>&lt;ul>
+&lt;li>&lt;strong>&lt;a class="link" href="https://pages.github.com/" target="_blank" rel="noopener"
+>GitHub Pages&lt;/a>&lt;/strong>：通过 GitHub Pages 服务，我可以将 Hugo 生成的静态网站直接发布到互联网上，并进行自动化的持续集成和部署。&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="https://vercel.com/" target="_blank" rel="noopener"
+>Vercel&lt;/a>&lt;/strong>：Vercel 是我用来部署 Waline 评论系统的平台。它确保了系统的快速响应，并且提升了整体用户体验。&lt;/li>
+&lt;/ul>
+&lt;h4 id="评论系统与邮件管理">评论系统与邮件管理
 &lt;/h4>&lt;ul>
 &lt;li>&lt;strong>&lt;a class="link" href="https://waline.js.org/" target="_blank" rel="noopener"
 >Waline&lt;/a>&lt;/strong>：Waline 是一款轻量级的评论系统，提供高效、安全且易于使用的评论功能。我使用它来处理博客上的评论和反馈，让与读者的互动更加方便。&lt;/li>
-&lt;li>&lt;strong>&lt;a class="link" href="https://vercel.com/" target="_blank" rel="noopener"
->Vercel&lt;/a>&lt;/strong>：Vercel 是我用来部署 Waline 评论系统的平台。它确保了系统的快速响应，并且提升了整体用户体验。&lt;/li>
+&lt;li>&lt;strong>&lt;a class="link" href="https://resend.com/" target="_blank" rel="noopener"
+>Resend&lt;/a>&lt;/strong>：我使用 Resend 来管理博客的邮件发送功能，确保联系表单和其他邮件通知的顺利发送。&lt;/li>
 &lt;/ul>
 &lt;p>通过这些工具的协同工作，我能够高效地管理和发布博客内容，希望您在这里能够找到对您有用的资源和灵感。感谢您的访问！&lt;/p></description></item><item><title>归档</title><link>https://highwe2hell.top/page/archives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://highwe2hell.top/page/archives/</guid><description/></item><item><title>搜索</title><link>https://highwe2hell.top/page/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://highwe2hell.top/page/search/</guid><description/></item><item><title>友链</title><link>https://highwe2hell.top/page/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://highwe2hell.top/page/links/</guid><description>&lt;p>很高兴你能来到这里，欢迎交流与互访！&lt;/p>
 &lt;p>以下是本站信息：&lt;/p>
@@ -1144,15 +1146,17 @@ data-flex-basis="300px"
 &lt;/span>&lt;span class="lnt">2
 &lt;/span>&lt;span class="lnt">3
 &lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td class="lntd">
 &lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">Highwe2hell 的博客&lt;/span>&lt;span class="w">
 &lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">subtitle&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">💖爱里没有惧怕。&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">记录学习之旅，分享计算机资源。&lt;/span>&lt;span class="w">
 &lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">link&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://highwe2hell.top&lt;/span>&lt;span class="w">
 &lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">avatar&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://avatars.githubusercontent.com/u/114563458?v=4&lt;/span>&lt;span class="w">
 &lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;p>如果你对本站内容感兴趣，或者希望交换友链，随时通过以下方式联系我：&lt;/p>
+&lt;/div>&lt;p>如果你对本站内容感兴趣，或者希望交换友链，欢迎随时联系我：&lt;/p>
 &lt;ul>
 &lt;li>&lt;strong>邮箱&lt;/strong> : &lt;a class="link" href="mailto:admin@highwe2hell.top" >admin@highwe2hell.top&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>
