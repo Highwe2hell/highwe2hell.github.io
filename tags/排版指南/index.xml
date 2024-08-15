@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>排版指南 on Highwe2hell 的博客</title><link>https://highwe2hell.top/tags/%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97/</link><description>Recent content in 排版指南 on Highwe2hell 的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Highwe2hell</copyright><lastBuildDate>Thu, 01 Aug 2024 19:00:00 +0800</lastBuildDate><atom:link href="https://highwe2hell.top/tags/%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml"/><item><title>中文博客写作和排版规范</title><link>https://highwe2hell.top/post/2642ab07/</link><pubDate>Thu, 01 Aug 2024 19:00:00 +0800</pubDate><guid>https://highwe2hell.top/post/2642ab07/</guid><description>&lt;img src="https://highwe2hell.top/post/2642ab07/cover.webp" alt="Featured image of post 中文博客写作和排版规范" />
 &lt;div class="notice notice-tip" >
-&lt;div class="notice-title">&lt;svg xmlns="http://www.w3.org/2000/svg" class="icon notice-icon" viewBox="0 0 512 512" fill="hsl(140, 65%, 65%)">&lt;path d="M504 256a248 248 0 11-496 0 248 248 0 01496 0zM227 387l184-184c7-6 7-16 0-22l-22-23c-7-6-17-6-23 0L216 308l-70-70c-6-6-16-6-23 0l-22 23c-7 6-7 16 0 22l104 104c6 7 16 7 22 0z"/>&lt;/svg>&lt;/div>&lt;p>本文主要修改自：&lt;a class="link" href="https://github.com/ruanyf/document-style-guide" target="_blank" rel="noopener"
+&lt;div class="notice-title">&lt;svg xmlns="http://www.w3.org/2000/svg" class="icon notice-icon" viewBox="0 0 512 512" fill="hsl(140, 65%, 65%)">&lt;path d="M504 256a248 248 0 11-496 0 248 248 0 01496 0zM227 387l184-184c7-6 7-16 0-22l-22-23c-7-6-17-6-23 0L216 308l-70-70c-6-6-16-6-23 0l-22 23c-7 6-7 16 0 22l104 104c6 7 16 7 22 0z"/>&lt;/svg>&lt;/div>&lt;p>本文主要修改自：&lt;a class="link" href="https://github.com/ruanyf/document-style-guide/" target="_blank" rel="noopener"
 >中文技术文档写作规范&lt;/a>&lt;/p>&lt;/div>
 &lt;h2 id="一标题">一、标题
 &lt;/h2>&lt;h3 id="1-层级">1. 层级
@@ -780,19 +780,19 @@
 &lt;/div>
 &lt;/div>&lt;h2 id="六参考链接">六、参考链接
 &lt;/h2>&lt;ul>
-&lt;li>&lt;a class="link" href="https://www.taodocs.com/p-51273.html" target="_blank" rel="noopener"
+&lt;li>&lt;a class="link" href="https://www.taodocs.com/p-51273.html/" target="_blank" rel="noopener"
 >产品手册中文写作规范&lt;/a>, by 华为&lt;/li>
-&lt;li>&lt;a class="link" href="http://guide.daocloud.io/dcs/%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E5%92%8C%E6%A0%BC%E5%BC%8F%E8%A7%84%E8%8C%83-9153803.html" target="_blank" rel="noopener"
+&lt;li>&lt;a class="link" href="http://guide.daocloud.io/dcs/%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83%E5%92%8C%E6%A0%BC%E5%BC%8F%E8%A7%84%E8%8C%83-9153803.html/" target="_blank" rel="noopener"
 >写作规范和格式规范&lt;/a>, by DaoCloud&lt;/li>
-&lt;li>&lt;a class="link" href="http://www.hitachi-tc.co.jp/company/thesis/thesis.pdf" target="_blank" rel="noopener"
+&lt;li>&lt;a class="link" href="http://www.hitachi-tc.co.jp/company/thesis/thesis.pdf/" target="_blank" rel="noopener"
 >技术写作技巧在日汉翻译中的应用&lt;/a>, by 刘方&lt;/li>
 &lt;li>&lt;a class="link" href="https://www.lengoo.de/documents/styleguides/lengoo_styleguide_ZH.pdf" target="_blank" rel="noopener"
 >简体中文规范指南&lt;/a>, by lengoo&lt;/li>
 &lt;li>&lt;a class="link" href="https://open.leancloud.cn/copywriting-style-guide.html" target="_blank" rel="noopener"
 >文档风格指南&lt;/a>, by LeanCloud&lt;/li>
-&lt;li>&lt;a class="link" href="https://docs.google.com/document/d/1R8lMCPf6zCD5KEA8ekZ5knK77iw9J-vJ6vEopPemqZM/edit" target="_blank" rel="noopener"
+&lt;li>&lt;a class="link" href="https://docs.google.com/document/d/1R8lMCPf6zCD5KEA8ekZ5knK77iw9J-vJ6vEopPemqZM/edit/" target="_blank" rel="noopener"
 >豌豆荚文案风格指南&lt;/a>, by 豌豆荚&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/sparanoid/chinese-copywriting-guidelines" target="_blank" rel="noopener"
+&lt;li>&lt;a class="link" href="https://github.com/sparanoid/chinese-copywriting-guidelines/" target="_blank" rel="noopener"
 >中文文案排版指北&lt;/a>, by sparanoid&lt;/li>
 &lt;li>&lt;a class="link" href="http://w3c.github.io/clreq/" target="_blank" rel="noopener"
 >中文排版需求&lt;/a>, by W3C&lt;/li>
@@ -802,6 +802,6 @@
 >Google Developer Documentation Style Guide&lt;/a>, by Google&lt;/li>
 &lt;li>&lt;a class="link" href="http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091154536.pdf" target="_blank" rel="noopener"
 >出版物上数字用法的规定（国家标准GBT15835－2011）&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://zh.wikisource.org/zh-hans/GB_3100-1993_%E5%9B%BD%E9%99%85%E5%8D%95%E4%BD%8D%E5%88%B6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8" target="_blank" rel="noopener"
+&lt;li>&lt;a class="link" href="https://zh.wikisource.org/zh-hans/GB_3100-1993_%E5%9B%BD%E9%99%85%E5%8D%95%E4%BD%8D%E5%88%B6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/" target="_blank" rel="noopener"
 >GB 3100-1993 国际单位制及其应用&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>
